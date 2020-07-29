@@ -1,7 +1,7 @@
 # Funnel Activation for Visual Recognition
 #### 收录到 [PytorchNetHub](https://github.com/bobo0810/PytorchNetHub)
 # 说明
-- 非官方
+- [非官方](https://github.com/megvii-model/FunnelAct/issues/1)
 - 即插即用，专为视觉任务设计
 - 比Relu\PRelu\Swish等更有效，且迁移性更好
 ----------
